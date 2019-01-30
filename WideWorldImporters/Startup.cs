@@ -35,7 +35,7 @@ namespace WideWorldImporters
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseBrowserLink();
+                // app.UseBrowserLink();
             }
             else
             {
